@@ -1,5 +1,5 @@
 # CalcBoss
-CalcBoss is a PEMDAS and Statics advanced calculator!
+CalcBoss is a PEMDAS and Statics advanced calculator coded entirely in Python!
 
 ***Guess what! CalcBoss is Open-soure!***
 
